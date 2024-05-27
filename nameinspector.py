@@ -1,7 +1,7 @@
 import random
 import time 
 import requests
-
+#join our telegram channel https://t.me/NS8_b
 
 #class for defind cheker
 class checker:
