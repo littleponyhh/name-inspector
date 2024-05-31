@@ -1,4 +1,4 @@
-this tool tottaly devloped and published by NS_8
+#this tool tottaly devloped and published by NS_8
 that tool generate many usernames and check for it on many sites 
 
 supported sites : 'instagram', 'tiktok', 'twitter'
