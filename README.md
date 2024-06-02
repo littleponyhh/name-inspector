@@ -6,7 +6,7 @@ hunt 4,5,6 characters usernames
 
 generate usernames
 
-supported sites : tiktok, instagram, twitter and on the future we were add : discord, telegram, telegram bots.
+supported sites : tiktok, instagram, twitter and on the future we will add : discord, telegram, telegram bots.
 
 ## HOW TO USE
 
