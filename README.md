@@ -29,3 +29,6 @@ write 4+ enter for generate username
 please join us on telegram : https://t.me/NS8_b
 
 also star the project for more 
+
+## BONUS
+in the future there will be an asyncio version from that program to get the program more performed 
