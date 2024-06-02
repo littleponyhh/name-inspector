@@ -13,13 +13,13 @@ supported sites : tiktok, instagram, twitter and on the future we will add : dis
 1. run the nameinspector.py in your terminal
 
 2.
-write 1+ enter for instagram
+write (1+ enter) for instagram
 
-write 2+ enter for tiktok 
+write (2+ enter) for tiktok 
 
-write 3+ enter for Twitter 
+write (3+ enter) for Twitter 
 
-write 4+ enter for generate username 
+write (4+ enter) for generate username 
 
 
 
